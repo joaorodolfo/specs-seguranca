@@ -2,7 +2,7 @@
 
 Repositório para documentação das especificações do GT de Segurança do Open Finance Brasil.
 
-## O que é?
+## O que é???
 
 O Open Finance, ou sistema financeiro aberto, é a possibilidade de clientes de produtos e serviços financeiros permitirem o compartilhamento de suas informações entre diferentes instituições autorizadas pelo Banco Central e a movimentação de suas contas bancárias a partir de diferentes plataformas e não apenas pelo aplicativo ou site do banco, de forma segura, ágil e conveniente.
 
